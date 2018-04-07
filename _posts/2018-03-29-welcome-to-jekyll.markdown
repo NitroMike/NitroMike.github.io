@@ -1,25 +1,44 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-03-29 13:48:58 +0000
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<style>
+  body {
+  padding-top: 80px;
+  font-family: monaco, monospace;
+  background-color: black;
+  background-size: cover;
+}
+p{color:white;
+}
+h1, h2 {text-align: center;
+  display: inline-block;
+  background-color: black;
+  color:lime;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+h3{color:white;}
+span {
+  background: #fd0;
+}
+li{color:yellow;
+font-size: 20}
+</style>
+<h1>Coding With Mike</h1>
+<br>
+<img src="https://wyncode.co/wp-content/uploads/2014/08/171.jpg" width="250" height="300">
+<br>
+<p>
+I have been taking courses through Susquahanna Valley's Computer Coding and
+Programming course.  Through it I have made many interpretive files and a 
+few responsive programs.  
+</p>
+<br>
+<h2>Some Things I have made through python are:</h2><br>
+<ul>
+  <li>The shortest distance between two points is a straight line.</li>
+  <li>Moving Lines</li>
+  <li>Input controlled item collection game</li>
+  
+</ul>
