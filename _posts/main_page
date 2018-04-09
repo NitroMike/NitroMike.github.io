@@ -3,14 +3,14 @@
   padding-top: 80px;
 
   font-family: monaco, monospace;
-  background-color: black;
+  background-color: #000000;
   background-size: cover;
 }
 p{color:white;
 }
 h1, h2 {text-align: center;
   display: inline-block;
-  background-color: black;
+  background-color: #000000;
   color:lime;
 }
 h1 {
@@ -19,11 +19,11 @@ h1 {
 h2 {
   font-size: 20px;
 }
-h3{color:white;}
+h3{color:#ffffff;}
 span {
   background: #fd0;
 }
-li{color:yellow;
+li{color:#fffa00;
 font-size: 20}
 </style>
 <h1>Coding With Mike</h1>
