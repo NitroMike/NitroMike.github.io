@@ -9,7 +9,7 @@
 title: NitroCodes
 email: mswide86@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm in Susquehanna Valleys coding class and this page is meant to represent that.
+  
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nitromike.github.io" # the base hostname & protocol for your site
